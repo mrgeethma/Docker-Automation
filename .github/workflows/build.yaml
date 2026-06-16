@@ -28,3 +28,4 @@ jobs:
           tags: |
                 geethmachamath7/docker-automation:${{ env.SHORT_SHA }}
                 geethmachamath7/docker-automation:latest
+                
